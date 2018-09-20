@@ -1,0 +1,2 @@
+# slim.cc
+Slim Website
